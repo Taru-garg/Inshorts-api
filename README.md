@@ -46,5 +46,8 @@ The API has 3 features or (endpoints):
           * miscellaneous
           * science
           * automobile
-## Test ##
+## Test (only for API) ##
 To make sure that the API is working try making a request to it using curl or you may use the browser as well.
+```sh
+curl ADDR_ON_WHICH_SERVER_IS_RUNNING:PORT/news/
+```
