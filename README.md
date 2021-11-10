@@ -1,6 +1,6 @@
 # News App
 
-This is a very simple news scraper or can also be said as an API for Inshorts.
+This is a very simple news scraper and also an API for Inshorts (scrapes data from Inshorts).
 
 
 ## Installation ##
